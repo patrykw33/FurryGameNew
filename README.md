@@ -8,4 +8,7 @@ A simple but fun game where you move Furry using keyboard to collect coins.
 - Webpack
 - JSON
 
+## Use
+Furry Game help to learn basics of object oriented programming in Javascript.
+
 
